@@ -1,4 +1,5 @@
 # CAPI: Coordinated Autoencoders for Persona Inference
+
 Neural Clustering Architecture for Tabular Data (Customer Segmentation/Persona Creation)
 This repo contains the official PyTorch implementation for CAPI: Coordinated Autoencoders for Persona Inference. CAPI is designed for clustering tabular data, leveraging autoencoders and a routing network. This work expands on existing work that follows a Mixture of Experts approach for clustering images and text. 
 
