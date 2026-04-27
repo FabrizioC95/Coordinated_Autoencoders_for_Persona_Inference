@@ -1,0 +1,11 @@
+#-- Python stuff
+__pycache__/
+*.py[cod]
+
+#-- Notebooks stuff
+.ipynb_checkpoints/
+
+#-- PyTorch stuff
+*.pt
+*.pth
+*.ckpt

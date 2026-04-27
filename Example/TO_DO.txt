@@ -1,4 +1,0 @@
-TO DO:
-
-1. Return learned embeddings
-2. Make the resulting column from the inference function return the ORIGINAL feature values along with the cluster assignments. Currently it returns the ENCODED features with the cluster assignments
